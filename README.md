@@ -61,13 +61,10 @@ NCR-Ride-Analysis/
 ├── Images/
 └── README.md
 
-🚀 Project Outcome
 
-This project demonstrates practical Data Analyst skills, including data cleaning, SQL querying, Python analysis, data visualization, dashboard development, and business problem-solving.
 
 👨‍💻 Author
-
 Sayantan Saha
 
-Skills:Power BI | Excel | Data Visualization
+Skills: Power BI | Excel | Data Visualization
 Aspiring Data Analyst
